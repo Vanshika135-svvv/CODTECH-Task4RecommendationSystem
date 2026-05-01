@@ -31,3 +31,6 @@ To design and build a collaborative filtering recommendation engine capable of p
 * **Matrix Factorization:** Applied `TruncatedSVD` to reduce dimensionality and extract hidden user preferences, effectively solving the matrix sparsity problem.
 * **Evaluation:** Monitored the Root Mean Squared Error (RMSE) to ensure the model generalized accurately without overfitting the known ratings.
 * **Visualization:** Created a heatmap side-by-side comparison illustrating how the algorithm transforms a sparse matrix into a fully predicted, dense recommendation space.
+
+## Output
+<img width="1538" height="590" alt="Image" src="https://github.com/user-attachments/assets/ef0df9ef-4ae7-4d65-ae43-32f8934f27bf" />
